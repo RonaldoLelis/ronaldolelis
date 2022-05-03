@@ -4,7 +4,7 @@
 - 🔭 Today I work with frontend;
 - 🌱 I’m currently learning Angular/Typescript;
 
-<div align="center">
+<div>
   <a href="https://github.com/ronaldolelis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldolelis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldolelis&layout=compact&langs_count=7&theme=dracula"/>
